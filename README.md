@@ -16,4 +16,4 @@ A workspace for experimenting with Claude Code and AI-assisted development.
 
 ## Contributing
 
-Feel free to open issues or pull request with improvements.
+Feel free to open issues or pull requests with improvements.
